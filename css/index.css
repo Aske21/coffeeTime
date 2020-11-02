@@ -307,7 +307,7 @@ section{
     align-items: center;
     display: flex;
     justify-content: space-between;
-    background: #333;
+    background: blue;
     padding: 0 100px 0 100px;
     margin-top:50px;
     margin-bottom:50px;
